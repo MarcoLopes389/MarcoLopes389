@@ -1,12 +1,44 @@
-### Hello!
+### Olá, me chamo Marco
 
- - 🔭 I’m currently not working, just studying programming
- - 🌱 I’m currently learning ReactJS and Typescrit
- - 👯 I’m looking to collaborate on big projects, i'd like to produce some lines of code in big open source projects in node or python
- - 🤔 I’m looking for help with Typescript, I didn't go too much with his face haha
- - 💬 Ask me about express and mongodb at this moment
- - 📫 How to reach me: @marc_skill in Instagram
+Sou desenvolvedor na área de BackEnd e curto muito o DevOps, dentre minhas principais tecnologias estão Nodejs <img align='center' height=20 width=20 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/nodedotjs.svg'> e Typescript <img align='center' height=20 width=20 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/typescript.svg'>. Uso diariamente o Docker <img align='center' height=20 width=20 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/docker.svg'> e o Kubernetes <img align='center' height=20 width=20 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/kubernetes.svg'> (apesar de ainda estar aprendendo). Também uso bastante sql e pratico scrum e kanban.
 
-More for me, I'm a young guy who like to learn always more. I'm passionated for programming and always wanted to produce something big and Amazing with programming.
-I'm wait in know good people to teach and learn with.
-In the future my system will be in production helping people in your journey.
+```javascript
+{
+  caracteristicas: [
+    'proatividade',
+    'bom aprendizado',
+    'praticante da cultura devops',
+    'gosto de clean code',
+    'gosto de desafios'
+  ]
+}
+```
+```javascript
+techs = [            
+   'Kubernetes',
+   'Docker',
+   'Node.js',
+   'Typescript',
+   'Express',
+   'Azure DevOps',
+   'TypeORM',
+   'SQL',
+   'MongoDB',
+   'Postgres',
+   'Srum',
+   'Kanban',
+   'Python', 
+   'Jest'
+]
+```
+<div style='display: flex; flex-direction'>
+ <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/kubernetes.svg'>
+ <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/docker.svg'>
+ <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/express.svg'>
+ <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/mongodb.svg'>
+ <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/postgresql.svg'>
+ <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/nodedotjs.svg'>
+ <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/azuredevops.svg'>
+ <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg'>
+ <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/jest.svg'>
+</div>
