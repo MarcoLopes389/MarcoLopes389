@@ -1,44 +1,25 @@
-### Olá, me chamo Marco
+### Hello, my name is Marco
 
-Sou desenvolvedor na área de BackEnd e curto muito o DevOps, dentre minhas principais tecnologias estão Nodejs <img align='center' height=20 width=20 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/nodedotjs.svg'> e Typescript <img align='center' height=20 width=20 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/typescript.svg'>. Uso diariamente o Docker <img align='center' height=20 width=20 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/docker.svg'> e o Kubernetes <img align='center' height=20 width=20 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/kubernetes.svg'> (apesar de ainda estar aprendendo). Também uso bastante sql e pratico scrum e kanban.
-
+I'm a software developer fucused in backend development. My personal mission and love is to develop scalable and performatic systems based on the best design and architectural patterns. 
+I'm currently working at Kemosoft and in my free time learning new technologies and developing new personal projects.
 ```javascript
-{
-  caracteristicas: [
-    'proatividade',
-    'bom aprendizado',
-    'praticante da cultura devops',
-    'gosto de clean code',
-    'gosto de desafios'
-  ]
-}
-```
-```javascript
-techs = [            
+techs = [
+   'Java',
+   'Spring Boot',        
    'Kubernetes',
    'Docker',
    'Node.js',
    'Typescript',
    'Express',
-   'Azure DevOps',
+   'Nestjs',
+   'Github Actions',
    'TypeORM',
    'SQL',
    'MongoDB',
    'Postgres',
-   'Srum',
+   'Scrum',
    'Kanban',
-   'Python', 
-   'Jest'
+   'Jest',
+   'TDD',
+   'Clean Code'
 ]
-```
-<div style='display: flex; flex-direction'>
- <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/kubernetes.svg'>
- <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/docker.svg'>
- <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/express.svg'>
- <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/mongodb.svg'>
- <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/postgresql.svg'>
- <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/nodedotjs.svg'>
- <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/azuredevops.svg'>
- <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/python.svg'>
- <img align='center' height=60 width=60 src='https://github.com/simple-icons/simple-icons/blob/develop/icons/jest.svg'>
-</div>
